@@ -6,8 +6,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Nityanand yadav - Portfolio",
-  description: "Frontend Developer - Professional Portfolio",
+  title: "NITYANAND YADAV  - Portfolio",
+  description: "Fullstack developer  - Professional Portfolio",
   generator: "Portfolio Generator"
 };
 
@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className="theme-blue">
+    <html lang="en" className="theme-purple">
       <body className={inter.className}>{children}</body>
     </html>
   );
