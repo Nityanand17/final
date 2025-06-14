@@ -24,7 +24,7 @@
     --input: 240 5.9% 90%;
     --ring: 240 5.9% 10%;
     --radius: 0.5rem;
-    --theme-color: 270 76% 53%;
+    --theme-color: 142 76% 36%;
   }
 
   .dark {
@@ -70,7 +70,7 @@
     --ring: 142 76% 36%;
     --theme-color: 142 76% 36%;
   }
-  
+ 
   /* Dark mode theme color variations */
   .dark.theme-blue {
     --primary: 213 94% 68%;
@@ -78,14 +78,14 @@
     --ring: 213 94% 68%;
     --theme-color: 213 94% 68%;
   }
-  
+ 
   .dark.theme-purple {
     --primary: 270 86% 70%;
     --primary-foreground: 270 40% 98%;
     --ring: 270 86% 70%;
     --theme-color: 270 86% 70%;
   }
-  
+ 
   .dark.theme-green {
     --primary: 142 69% 58%;
     --primary-foreground: 142 40% 98%;
